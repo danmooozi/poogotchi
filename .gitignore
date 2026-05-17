@@ -1,0 +1,9 @@
+# bkit-codex
+.bkit-codex/
+
+.codex
+.agents
+
+.DS_Store
+
+stitch_pixel_poop_evolution/*
